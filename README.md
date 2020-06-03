@@ -1,5 +1,5 @@
 # JourneyToSurvival
-Mobile game
+Mobile game<br >
 **Icon** <br >
 <img src="icon.png" width= "100">
 <br ><br >
